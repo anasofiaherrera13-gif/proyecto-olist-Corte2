@@ -1,8 +1,3 @@
-# proyecto-olist-Corte2
-Aquí lo tienes listo para copiar directamente en GitHub como `README.md`:
-
----
-
 # Proyecto Olist – Análisis de Factores Logísticos y Satisfacción del Cliente
 
 ## Objetivo
