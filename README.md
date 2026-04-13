@@ -58,9 +58,7 @@ El análisis se desarrolló bajo un enfoque cuantitativo, utilizando técnicas e
 
 ## Estructura del repositorio
 
-* Analisis_Olist_Logistica_Satisfaccion.ipynb: Notebook principal con el desarrollo completo del análisis.
-* data/ (opcional): Archivos de datos si se incluyen localmente.
-
+* Desarrollo_Parcial_2_SH.ipynb: Notebook principal con el desarrollo completo del análisis.
 ---
 
 ## Dataset
